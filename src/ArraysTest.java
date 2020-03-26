@@ -17,7 +17,17 @@ public class ArraysTest {
             new String[]{"Python", "JAVA", "PHP", "C#", "C++", "SQL"},
             new String[]{"MySQL", "SQL", "SQLite", "Oracle", "PostgreSQL", "DB2", "JAVA"},
             new String[]{"JAVA", "SQL"}
-        }
+        },
+            {
+                    new String[]{"Kyiv", "Berlin", "Bern", "Paris", "Milan", "Rome"},
+                    new String[]{"Krakow", "Lviv", "Vien", "Rome"},
+                    new String[]{"Rome"}
+            },
+            {
+                    new String[]{"Barcelona", "Dynamo", "Liverpool", "Arsenal", "Juventus", "Atletico"},
+                    new String[]{"Arsenal", "PSG", "Dynamo", "Marsel", "Shalke", "Lyon", "Barcelona"},
+                    new String[]{"Barcelona", "Dynamo", "Arsenal"}
+            }
         // TODO add 2 more test data here
     };
   }
