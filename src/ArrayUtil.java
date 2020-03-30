@@ -22,10 +22,6 @@ public class ArrayUtil {
         }
       }
     }
-    String[] commonStrings = new String[arrayList.size()];
-    for (int i = 0; i < arrayList.size(); i++) {
-      commonStrings[i] = arrayList.get(i);
-    }
-    return commonStrings;
+    return arrayList.toArray(new String[0]);
   }
 }

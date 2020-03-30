@@ -18,16 +18,16 @@ public class ArraysTest {
             new String[]{"MySQL", "SQL", "SQLite", "Oracle", "PostgreSQL", "DB2", "JAVA"},
             new String[]{"JAVA", "SQL"}
         },
-            {
-                    new String[]{"Kyiv", "Berlin", "Bern", "Paris", "Milan", "Rome"},
-                    new String[]{"Krakow", "Lviv", "Vien", "Rome"},
-                    new String[]{"Rome"}
-            },
-            {
-                    new String[]{"Barcelona", "Dynamo", "Liverpool", "Arsenal", "Juventus", "Atletico"},
-                    new String[]{"Arsenal", "PSG", "Dynamo", "Marsel", "Shalke", "Lyon", "Barcelona"},
-                    new String[]{"Barcelona", "Dynamo", "Arsenal"}
-            }
+        {
+            new String[]{"Kyiv", "Berlin", "Bern", "Paris", "Milan", "Rome"},
+            new String[]{"Krakow", "Lviv", "Vien", "Rome"},
+            new String[]{"Rome"}
+        },
+        {
+            new String[]{"Barcelona", "Dynamo", "Liverpool", "Arsenal", "Juventus", "Atletico"},
+            new String[]{"Arsenal", "PSG", "Dynamo", "Marsel", "Shalke", "Lyon", "Barcelona"},
+            new String[]{"Barcelona", "Dynamo", "Arsenal"}
+        }
     };
   }
 
