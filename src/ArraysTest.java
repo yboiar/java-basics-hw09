@@ -28,7 +28,6 @@ public class ArraysTest {
                     new String[]{"Arsenal", "PSG", "Dynamo", "Marsel", "Shalke", "Lyon", "Barcelona"},
                     new String[]{"Barcelona", "Dynamo", "Arsenal"}
             }
-        // TODO add 2 more test data here
     };
   }
 

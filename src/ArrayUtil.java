@@ -1,9 +1,9 @@
 import java.util.ArrayList;
-import java.util.HashSet;
 
 /**
  * ArrayUtil exercises.
  */
+
 public class ArrayUtil {
 
   /**
@@ -14,7 +14,6 @@ public class ArrayUtil {
    * @return String array with common elements
    */
   public static String[] findCommon(String[] array1, String[] array2) {
-    // TODO fill in code here
     ArrayList<String> arrayList = new ArrayList<>();
     for (String string: array1) {
       for (String string2: array2) {
